@@ -6,15 +6,15 @@
 #set -x
 
 # variable ################
-baseurl="https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231202-split"
+baseurl="https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231209-split"
 base="L4N-2204-ABiS-split"
-L4N="L4N-2204-ABiS-20231202.ova"
-L4Ndir="L4N-2204-ABiS-20231202"
-L4Nmd5="MD5(L4N-2204-ABiS-20231202.ova)= b652ad393dd9641e1e2babe6931c118f"
+L4N="L4N-2204-ABiS-20231209.ova"
+L4Ndir="L4N-2204-ABiS-20231209"
+L4Nmd5="MD5(L4N-2204-ABiS_20231209.ova)= e43d699d319efec1b56a76cbf8ab41dc"
 nfiles=29 # n-1
 ###########################
 
-cd ~/Downloads
+#cd ~/Downloads
 [ ! -d ${L4Ndir} ] && mkdir ${L4Ndir}
 cd ${L4Ndir}
 
@@ -65,7 +65,7 @@ echo "正しく${L4N}が生成されました"
 
 echo ""
 echo "L4Nの準備が完了しました。"
-echo "ダウンロードの${L4Ndir}フォルダの中にある${L4N}をVirtualBoxにインポートしてください"
+echo "${L4Ndir}フォルダの中にある${L4N}をVirtualBoxにインポートしてください"
 sleep 10
 
 exit
