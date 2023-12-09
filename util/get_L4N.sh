@@ -10,7 +10,7 @@ baseurl="https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231209-split"
 base="L4N-2204-ABiS-split"
 L4N="L4N-2204-ABiS-20231209.ova"
 L4Ndir="L4N-2204-ABiS-20231209"
-L4Nmd5="MD5(L4N-2204-ABiS_20231209.ova)= e43d699d319efec1b56a76cbf8ab41dc"
+L4Nmd5="MD5(L4N-2204-ABiS-20231209.ova)= e43d699d319efec1b56a76cbf8ab41dc"
 nfiles=29 # n-1
 ###########################
 
