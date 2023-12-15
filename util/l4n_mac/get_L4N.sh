@@ -6,11 +6,11 @@
 #set -x
 
 # variable ################
-baseurl="https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231209-split"
+baseurl="https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231214-split"
 base="L4N-2204-ABiS-split"
-L4N="L4N-2204-ABiS-20231209.ova"
-L4Ndir="L4N-2204-ABiS-20231209"
-L4Nmd5="MD5(L4N-2204-ABiS_20231209.ova)= e43d699d319efec1b56a76cbf8ab41dc"
+L4N="L4N-2204-ABiS-20231214.ova"
+L4Ndir="L4N-2204-ABiS-20231214"
+L4Nmd5="MD5(L4N-2204-ABiS-20231214.ova)= 1dbb0b839715d3cc131ab96cf735be9b"
 nfiles=29 # n-1
 ###########################
 
