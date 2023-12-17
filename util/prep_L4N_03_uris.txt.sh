@@ -19,6 +19,6 @@ cd $modir/l4n_win
 
 mv uris.txt uris.txt.old
 
-sed -e 's@MD5(@https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/@' -e 's@)@\r  check-integrity=true\n@' -e 's@= @  checksum=md5=@' -e 's@https@\rhttps@' md5list.txt | nkf -sLw > uris.txt
+sed -e 's@MD5(@https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/@' -e 's@)@\r  check-integrity=true\n@' -e 's@= @  checksum=md5=@' -e 's@https@\rhttps@' md5list.txt | nkf -sLw > uris.txt
 
 rm uris.txt.old md5list.txt

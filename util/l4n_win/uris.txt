@@ -1,120 +1,120 @@
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-00
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-00
   check-integrity=true
-  checksum=md5=d657b5687d7ec9ffc2a24bb04a1b0b1c
+  checksum=md5=732c9e4042e9ff8d70a0026a9d04b245
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-01
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-01
   check-integrity=true
-  checksum=md5=e57675a7af0369edc53eb32b605f1d06
+  checksum=md5=de6973c0fe2aafd7f90616616a6348ca
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-02
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-02
   check-integrity=true
-  checksum=md5=629a203a610329686697fd7b5b87ff5e
+  checksum=md5=a4166ff5c643be4e0bead94d4b7c6d80
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-03
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-03
   check-integrity=true
-  checksum=md5=5d4958afb2d425e66ff225394733deb8
+  checksum=md5=c30fecbc08061b3691b9906d5de1687f
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-04
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-04
   check-integrity=true
-  checksum=md5=67044987d4db28e125d2c4431c6cc45b
+  checksum=md5=cea3907e3ad752631f19247f0a683016
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-05
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-05
   check-integrity=true
-  checksum=md5=c0dda2c14f79c5827741f345965372fc
+  checksum=md5=acf193fd58da1c8ab85d56c1acd0d724
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-06
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-06
   check-integrity=true
-  checksum=md5=6451638a87cdcb2ef01aac1b4c4f7cae
+  checksum=md5=d4113b0160c2ef5404ce29b48574e774
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-07
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-07
   check-integrity=true
-  checksum=md5=3fd5625579f218b14b3665aab4600511
+  checksum=md5=7841dad5669d54859cc294535bf75555
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-08
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-08
   check-integrity=true
-  checksum=md5=1f6fa84b7dfd5f283a95707dc9f74aa1
+  checksum=md5=cf27777afe788320ee8b15a75e76463a
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-09
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-09
   check-integrity=true
-  checksum=md5=423e3d428f8951f6db94302f28ef9424
+  checksum=md5=3b6725f35d0e53fc419cc7043e86bc93
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-10
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-10
   check-integrity=true
-  checksum=md5=6b693b6d800111340f4034c075446113
+  checksum=md5=e2c6e8e53af5eb2e91e95f1b20bc5c0c
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-11
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-11
   check-integrity=true
-  checksum=md5=734f9679d05a783beb9bed20bc1465aa
+  checksum=md5=181980f975245a5919239b6f31723909
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-12
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-12
   check-integrity=true
-  checksum=md5=c8a6c5c02fc22d83b27f079dc490850f
+  checksum=md5=2c44c1807aad849720df5d394903c3e9
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-13
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-13
   check-integrity=true
-  checksum=md5=f12034bd3111043210ade031f0aeb583
+  checksum=md5=159c13487c42c4230807b63558cef263
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-14
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-14
   check-integrity=true
-  checksum=md5=2a29a3ae784d1bf13a2cd9602e348cf9
+  checksum=md5=b6a35cd535d989fa813852f122ea8762
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-15
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-15
   check-integrity=true
-  checksum=md5=4b57951b509e09f8d0f95bef08b2a58d
+  checksum=md5=68efdf429b1fb440265db060c8029673
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-16
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-16
   check-integrity=true
-  checksum=md5=9755c54767c4918026e30b0f97c1ceff
+  checksum=md5=31469bc8b7855822e1fc8fc27d7ad993
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-17
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-17
   check-integrity=true
-  checksum=md5=6940deadab17518e72f7ad0012506e06
+  checksum=md5=84c79634eadacbacc45acf511a9b9000
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-18
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-18
   check-integrity=true
-  checksum=md5=b310aedb8f1d1b457634189920805e77
+  checksum=md5=aae064aa119e29f7d914c442454b3050
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-19
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-19
   check-integrity=true
-  checksum=md5=ac8915d99c05777b366dbd26416d29d1
+  checksum=md5=8084a546c7a30fa111e40c045e565ecc
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-20
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-20
   check-integrity=true
-  checksum=md5=a93a4a6d6790b6bc1648e16b434afe8c
+  checksum=md5=b1a0d6c72ad5691270e72de866f184b3
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-21
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-21
   check-integrity=true
-  checksum=md5=39b86e3fe64e7066e293e3c375c7f883
+  checksum=md5=5aafaba6aa7c1a5b0fb9febe6a930c6a
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-22
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-22
   check-integrity=true
-  checksum=md5=bee85f9340d5537443b5c51069a83fd0
+  checksum=md5=f8c2b40db2d223b4fd05e05a81c982f9
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-23
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-23
   check-integrity=true
-  checksum=md5=dd796af3e04203f0dd5773c0d866d752
+  checksum=md5=6d15844145104f9fb4031dac1a1c76a2
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-24
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-24
   check-integrity=true
-  checksum=md5=b35b47fa6f8de87bb0084b9dae949c24
+  checksum=md5=a7821b5df2e42fb14716412424162dde
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-25
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-25
   check-integrity=true
-  checksum=md5=4d8aba2fb82ced82f1b39320a912ec54
+  checksum=md5=d3706489c87d7e43b080458bfa3990e2
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-26
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-26
   check-integrity=true
-  checksum=md5=676d878644ec994c38b7418f4615d5b4
+  checksum=md5=977055a5a27877dccb1051d3a138e2a0
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-27
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-27
   check-integrity=true
-  checksum=md5=7efde0d0e8e2f4910c22ff3ee97d3b7a
+  checksum=md5=c4d3673bb3e54a46c2b8c38841a2dd01
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-28
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-28
   check-integrity=true
-  checksum=md5=42d2bb1174e98a045c5ed5dcb30fcffe
+  checksum=md5=9fd0ce44772c62c2272b7dba18a93277
 
-https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231212-split/L4N-2204-ABiS-split-29
+https://www.nemotos.net/l4n-abis/L4N-2204-ABiS-20231218-split/L4N-2204-ABiS-split-29
   check-integrity=true
-  checksum=md5=229d654b02b4872cd764070cbb46c299
+  checksum=md5=bace60976a3183ac92bc88fe5f38fe5f
